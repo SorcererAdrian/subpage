@@ -7,7 +7,6 @@
     "start": "react-router-serve ./build/server/index.js",
     "typecheck": "react-router typegen && tsc"
   },
-  "homepage": "sorcereradrian.github.io/test",
   "dependencies": {
     "@react-router/node": "7.10.1",
     "@react-router/serve": "7.11.0",
